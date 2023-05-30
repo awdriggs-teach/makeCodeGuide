@@ -18,3 +18,6 @@ Tilemaps are a way of creating larger levels using small image tiles.
 Animate your sprites!
 - [Guide](https://learn.adafruit.com/makecode-arcade-pixel-animation/create-sprite-animation-in-makecade)
 
+## Jump Example
+Here is an example how to make a simple jump physics using velocity and acceleration.
+- [Code Example](https://arcade.makecode.com/S81924-85073-02151-45494)
