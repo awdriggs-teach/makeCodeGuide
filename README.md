@@ -1,7 +1,12 @@
 # MakeCode Arcade Guide
 Resources for making awesome games with [MakeCode Arcdade](https://arcade.makecode.com/)
 
-## Projectiles in All Directions
+## Projectiles
+### Firing Projectiles to Destroy Enemies
+![shooting example](imgs/projectiles.gif)
+- [Video Tutorial](https://youtu.be/8U64KW0Brz0)
+
+### Projectiles in All Directions
 ![shooting example](imgs/moveshoot.gif)
 - [Video Tutorial](https://www.youtube.com/watch?v=uKa__AExuao&t=762s)
 - [Example Code](https://arcade.makecode.com/S97473-84006-57536-03114)
