@@ -7,7 +7,8 @@ Resources for making awesome games with [MakeCode Arcdade](https://arcade.makeco
 - [Video Tutorial](https://youtu.be/8U64KW0Brz0)
 
 ### No More Spamming!
--[Delaying Projectiles](https://youtu.be/_mvZLLS-sjI)
+- [Delaying Projectiles Video](https://youtu.be/_mvZLLS-sjI)
+- [Code Sample](https://arcade.makecode.com/S47973-66673-80358-23616)
 
 ### Projectiles in All Directions
 ![shooting example](imgs/moveshoot.gif)
