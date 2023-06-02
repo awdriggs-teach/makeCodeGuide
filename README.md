@@ -6,6 +6,9 @@ Resources for making awesome games with [MakeCode Arcdade](https://arcade.makeco
 ![shooting example](imgs/projectiles.gif)
 - [Video Tutorial](https://youtu.be/8U64KW0Brz0)
 
+### No More Spamming!
+-[Delaying Projectiles](https://youtu.be/_mvZLLS-sjI)
+
 ### Projectiles in All Directions
 ![shooting example](imgs/moveshoot.gif)
 - [Video Tutorial](https://www.youtube.com/watch?v=uKa__AExuao&t=762s)
@@ -26,3 +29,9 @@ Animate your sprites!
 ## Jump Example
 Here is an example how to make a simple jump physics using velocity and acceleration.
 - [Code Example](https://arcade.makecode.com/S81924-85073-02151-45494)
+
+## MultiPlayer
+- [Multiplayer Activity Guide](https://arcade.makecode.com/courses/csintro2/logic/multiplayer)
+- [Multi Player Fighting Game](https://www.instructables.com/MultiplayerFighting-on-GameGo-With-Makecode-Arcade/)
+- [2 Player Galga](https://www.youtube.com/watch?v=AyvYTKc15pw)
+
