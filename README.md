@@ -36,3 +36,5 @@ Here is an example how to make a simple jump physics using velocity and accelera
 - [Multi Player Fighting Game](https://www.instructables.com/MultiplayerFighting-on-GameGo-With-Makecode-Arcade/)
 - [2 Player Galga](https://www.youtube.com/watch?v=AyvYTKc15pw)
 
+## Advanced
+- [Status Bars, Hit Points, Labels](https://medium.com/kikis-corner/lives-647acce42ca8)
