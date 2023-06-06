@@ -2,6 +2,8 @@
 Resources for making awesome games with [MakeCode Arcdade](https://arcade.makecode.com/)
 
 ## Projectiles
+Projectiles allow you to shoot fireballs or missiles in your game.
+
 ### Firing Projectiles to Destroy Enemies
 ![shooting example](imgs/projectiles.gif)
 - [Video Tutorial](https://youtu.be/8U64KW0Brz0)
@@ -12,13 +14,14 @@ Resources for making awesome games with [MakeCode Arcdade](https://arcade.makeco
 - [Example Code](https://arcade.makecode.com/S97473-84006-57536-03114)
 
 ### No More Spamming!
+
 - [Delaying Projectiles Video](https://youtu.be/_mvZLLS-sjI)
 - [Code Sample](https://arcade.makecode.com/S47973-66673-80358-23616)
 
 ## Tilemaps
+Tilemaps are a way of creating larger levels using small image tiles. 
 ![tilemap example](imgs/tilemap.gif)
 
-Tilemaps are a way of creating larger levels using small image tiles. 
 - [Guide](https://arcade.makecode.com/courses/csintro2/tilemap/intro). 
 - [Video Tutorial](https://www.youtube.com/watch?v=_CLXzIrAGbk).
 - [Random Tilemap Generator](https://arcade.makecode.com/S62817-26561-79871-75038)
@@ -37,4 +40,13 @@ Here is an example how to make a simple jump physics using velocity and accelera
 - [2 Player Galga](https://www.youtube.com/watch?v=AyvYTKc15pw)
 
 ## Advanced
+### Data, HP bar, Labels
+There are some super helpful extensions if you want to add a health bar or other types of data to your game.
 - [Status Bars, Hit Points, Labels](https://medium.com/kikis-corner/lives-647acce42ca8)
+
+### Enemies with multiple lives
+This example uses Sprite Data to give the enemies multiple lives. Make sure you add the "Sprite Data" Extension and read the comments!
+- [Code Example](https://arcade.makecode.com/S18517-52136-18867-25085)
+
+### Boss Level
+- [Code Example](https://arcade.makecode.com/S44254-20746-26366-31278)
