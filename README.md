@@ -14,9 +14,11 @@ Projectiles allow you to shoot fireballs or missiles in your game.
 - [Example Code](https://arcade.makecode.com/S97473-84006-57536-03114)
 
 ### No More Spamming!
-
 - [Delaying Projectiles Video](https://youtu.be/_mvZLLS-sjI)
 - [Code Sample](https://arcade.makecode.com/S47973-66673-80358-23616)
+
+### Limited Ammo
+- [Code Example](https://arcade.makecode.com/S80767-99848-73082-49324)
 
 ## Tilemaps
 Tilemaps are a way of creating larger levels using small image tiles. 
